@@ -25,7 +25,7 @@ The game tracks the number of guesses and the time taken, saves scores to a Mong
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/Streamlit-Guessing-Game.git
-   cd Streamlit-Guessing-Game
+   cd Number-Guessing-Game
    ```
 2. **Install Required Packages:**
    Install dependencies using pip:
